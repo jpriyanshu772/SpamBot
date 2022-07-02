@@ -25,4 +25,4 @@
 
 # Credits
 * [RiZoeL Creator](https://github.com/MrRizoel)
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
+* [Lonami](https://github.com/jpriyanshu772/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
